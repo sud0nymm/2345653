@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\GLprimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Rotator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\TriangleSoup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Rotator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\TriangleSoup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\Utilities.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="\\ad.liu.se\home\vilgu036\Desktop\tnm046\lab1\GLprimer\GLprimer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B1893B6E-947E-343E-A4FD-128E9257A0A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C672EBCC-E5F3-32F3-AE9E-4A198B37A7FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
